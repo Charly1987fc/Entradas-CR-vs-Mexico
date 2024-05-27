@@ -1,0 +1,7 @@
+C:\Users\Usuario\OneDrive - CastroCarazo\Documentos\PROGRAMACION 2\Tarea3Progra2App\bin\Debug\Tarea3Progra2App.exe.config
+C:\Users\Usuario\OneDrive - CastroCarazo\Documentos\PROGRAMACION 2\Tarea3Progra2App\bin\Debug\Tarea3Progra2App.exe
+C:\Users\Usuario\OneDrive - CastroCarazo\Documentos\PROGRAMACION 2\Tarea3Progra2App\bin\Debug\Tarea3Progra2App.pdb
+C:\Users\Usuario\OneDrive - CastroCarazo\Documentos\PROGRAMACION 2\Tarea3Progra2App\obj\Debug\Tarea3Progra2App.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive - CastroCarazo\Documentos\PROGRAMACION 2\Tarea3Progra2App\obj\Debug\Tarea3Progra2App.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - CastroCarazo\Documentos\PROGRAMACION 2\Tarea3Progra2App\obj\Debug\Tarea3Progra2App.exe
+C:\Users\Usuario\OneDrive - CastroCarazo\Documentos\PROGRAMACION 2\Tarea3Progra2App\obj\Debug\Tarea3Progra2App.pdb
